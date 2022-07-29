@@ -1,5 +1,9 @@
-Privacy Policy  
+<div align='center'><img src="https://github.com/Mamena2020/artex-privacy-policy/blob/main/logo4.png" width="30" height='30' title="Artex"></div>
+
+Privacy Policy
 ----------------
+
+
 
 ### Introduction  
 Our privacy policy will help you understand what information we collect at Artex, how Mamena uses it, and what choices you have.
